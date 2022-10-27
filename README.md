@@ -1,2 +1,8 @@
-# Derste-ve-Evde-yapt-klar-m
-20 ekim cuma (geçen hafta) derste yaptıkarım ve ev ödevim.
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>21 EKİM 2022 -DERSTE- VE -EVDE- YAPTIKLARIM </h1>
+  </body>
+</html>
